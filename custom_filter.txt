@@ -1,0 +1,20 @@
+! -------------
+! custom filter
+! -------------
+!   web
+||www.delorean.co.jp^
+||news.denfaminicogamer.jp^
+||welte.jp^
+||www.gamegadget.jp^
+||www.indiegogo.jp^
+||blog.livedoor.jp/itsoku^
+||world-fusigi.net^
+||alfalfalfa.com^
+||jin115.com^
+||firework.com^
+!   App
+||scdn.line-apps.com^
+||a.line.me^
+||obs.line-scdn.net^
+||sch.line.me^
+||gw.line.naver.jp^
