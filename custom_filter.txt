@@ -1,6 +1,6 @@
 ! Title: custom filter
 ! Description: custom filter for adguard
-! Version: 2024_01_28
+! Version: 2024-01-28
 !
 ! custom filter for Adguard
 !
