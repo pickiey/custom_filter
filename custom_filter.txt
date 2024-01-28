@@ -1,7 +1,7 @@
-! -------------
-! custom filter
-! -------------
+! Title: custom filter
+!
 !   web
+!
 ||www.delorean.co.jp^
 ||news.denfaminicogamer.jp^
 ||welte.jp^
@@ -12,7 +12,9 @@
 ||alfalfalfa.com^
 ||jin115.com^
 ||firework.com^
+!
 !   App
+!
 ||scdn.line-apps.com^
 ||a.line.me^
 ||obs.line-scdn.net^
