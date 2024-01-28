@@ -1,0 +1,11 @@
+! Title: custom filter - dns
+! Description: custom filter - dns
+! Version: 2024-01-28
+!
+! custom filter - dns
+!
+||scdn.line-apps.com^
+||a.line.me^
+||obs.line-scdn.net^
+||sch.line.me^
+||gw.line.naver.jp^
