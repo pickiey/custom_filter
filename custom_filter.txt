@@ -1,5 +1,5 @@
 ! Title: custom filter
-! Description: custom filter for Adguard
+! Description: custom filter for adguard
 ! Version: 2024_01_28
 !
 ! custom filter for Adguard
@@ -17,7 +17,7 @@
 ||jin115.com^
 ||firework.com^
 !
-!   App
+!   app
 !
 ||scdn.line-apps.com^
 ||a.line.me^
