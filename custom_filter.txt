@@ -4,7 +4,7 @@
 !
 ! custom filter
 !
-!   web
+!   browser
 !
 ||www.delorean.co.jp^
 ||news.denfaminicogamer.jp^
@@ -17,7 +17,7 @@
 ||jin115.com^
 ||firework.com^
 !
-!   app
+!   dns
 !
 ||scdn.line-apps.com^
 ||a.line.me^
