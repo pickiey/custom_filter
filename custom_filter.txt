@@ -2,7 +2,7 @@
 ! Description: custom filter
 ! Version: 2024-01-28
 !
-! custom filter for Adguard
+! custom filter
 !
 !   web
 !
