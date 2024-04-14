@@ -10,3 +10,4 @@
 ||sch.line.me^
 ||gw.line.naver.jp^
 ||gwx.line.naver.jp^
+||storage-yahoo.jp^
