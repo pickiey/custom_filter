@@ -10,4 +10,4 @@
 ||sch.line.me^
 ||gw.line.naver.jp^
 ||gwx.line.naver.jp^
-||storage-yahoo.jp^
+||shp-front-delivery-ptah-cms.west.edge.storage-yahoo.jp^
