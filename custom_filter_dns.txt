@@ -9,4 +9,3 @@
 ||obs.line-scdn.net^
 ||sch.line.me^
 ||gw.line.naver.jp^
-||gwx.line.naver.jp^
