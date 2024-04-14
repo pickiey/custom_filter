@@ -7,5 +7,6 @@
 ||scdn.line-apps.com^
 ||a.line.me^
 ||obs.line-scdn.net^
+||voom-obs.line-scdn.net^
 ||sch.line.me^
 ||gw.line.naver.jp^
