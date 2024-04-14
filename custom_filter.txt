@@ -1,6 +1,6 @@
 ! Title: custom filter
 ! Description: custom filter
-! Version: 2024-01-28
+! Version: 2024-04-15
 !
 ! custom filter
 !
@@ -24,3 +24,4 @@
 ||obs.line-scdn.net^
 ||sch.line.me^
 ||gw.line.naver.jp^
+||gwx.line.naver.jp^
