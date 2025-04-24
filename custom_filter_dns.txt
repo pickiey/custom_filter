@@ -1,6 +1,6 @@
 ! Title: custom filter - dns
 ! Description: custom filter - dns
-! Version: 2024-04-15
+! Version: 2025-04-24
 !
 ! custom filter - dns
 !
@@ -10,3 +10,9 @@
 ||voom-obs.line-scdn.net^
 ||sch.line.me^
 ||gw.line.naver.jp^
+||ibyteimg.com^
+||tiktokcdn.com^
+||tiktokpangle.us^
+||tiktokpangle-b.us^
+||go.tklivechat.com^
+||ad.mail.ru^
