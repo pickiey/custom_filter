@@ -1,6 +1,6 @@
 ! Title: custom filter - dns
 ! Description: custom filter - dns
-! Version: 2025-04-24
+! Version: 2026-11-10
 !
 ! custom filter - dns
 !
@@ -17,3 +17,7 @@
 ||go.tklivechat.com^
 ||ad.mail.ru^
 ||da.flvcdn.net^
+||linevoom.line.me^
+||voom-assets.line-scdn.net^
+||ch-news.line-apps.com^
+||square-api.line.me^
